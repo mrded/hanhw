@@ -1,7 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default 
 ---
+The Haringey Association of Neighbourhood Watches provides information for all the Neighbourhood Watches in Haringey.
 
+If you are interested in Neighbourhood Watch in Haringey, please [contact](/contact) the Neighbourhood Watch Link Manager.
+
+Is your [street](/roads) covered by a watch?
