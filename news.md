@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: news 
 title: Latest News in Haringey  
 permalink: /news/
 ---
