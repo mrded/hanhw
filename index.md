@@ -5,4 +5,3 @@
 layout: home
 ---
 
-<img src="{{site.url}}/assets/logo.gif" style="margin: auto; display: block;"/>
