@@ -1,8 +1,6 @@
 ---
-layout: post
+layout: scam 
 title:  Laptop Scam 
-date:   2020-02-26 14:08:00 +0000
-categories: scams 
 ---
 
 > "Why buy from an unlicensed trader? For your cash, you get no receipt, no guarantee and no money back if the goods are faulty or stolen."

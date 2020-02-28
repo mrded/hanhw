@@ -6,3 +6,6 @@ url: "https://mrded.github.io/hanhw"
 theme: minima
 plugins:
   - jekyll-feed
+collections:
+  scams:
+    output: true
